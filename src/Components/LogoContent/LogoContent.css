@@ -1,0 +1,45 @@
+.Card:hover {
+  transform: scale(1.05); 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+  border: none;
+}
+
+.btn:hover {
+  background-color: #00A36C;
+  border: none;
+}
+/* Default height for larger screens */
+/* Default height for larger screens */
+
+.loading-spinner-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.loading-spinner {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-left-color: #333;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+

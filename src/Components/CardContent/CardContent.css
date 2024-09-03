@@ -1,0 +1,8 @@
+.my-component-container .card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    transform: none;
+}
+.my-component-container {
+    padding-right: 15px; /* Add padding to the right side */
+    padding-left: 15px;  /* Add padding to the left side */
+  }

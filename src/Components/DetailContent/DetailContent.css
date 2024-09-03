@@ -1,0 +1,11 @@
+.video-container {
+    width: 50%;
+    overflow: hidden;
+    height: 400px; /* Set your desired height */
+  }
+  
+  .video-fluid {
+    width: 50%;
+    height: 50%; /* Use 100% to fill the container height */
+  }
+  

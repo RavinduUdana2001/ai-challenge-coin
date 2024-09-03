@@ -1,0 +1,25 @@
+
+  .web-content-image {
+    margin-top: 20px; /* Add margin for spacing */
+  }
+  
+  .web-content-description {
+    color: #666; /* Set the description color */
+    font-size: 18px; /* Adjust the font size */
+    line-height: 1.6; /* Adjust the line height */
+  }
+  .web-content-container {
+    padding-top: 50px; /* Adjust as needed */
+  }
+  .web-content-title {
+    font-size: 3rem; /* Increase font size for the main title */
+    color: #333; /* Change color if needed */
+    margin-bottom: 10px; /* Add margin bottom for spacing */
+  }
+  
+  .web-content-subtitle {
+    font-size: 2rem; /* Adjust font size for the subtitle */
+    color: #666; /* Change color if needed */
+    margin-bottom: 20px; /* Add margin bottom for spacing */
+  }
+  
