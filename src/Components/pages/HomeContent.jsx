@@ -8,6 +8,8 @@ import DetailContent from '../DetailContent/DetailContent';
 import FormContent from '../FormContent/FormContent';
 import DesContent from '../DesContent/DesContent';
 import LangContent from '../LangCotent/LangContent';
+import ServiceDescription from '../ServiceDescription/ServiceDescription';
+import PaymentMethods from '../PaymentMethods/PaymentMethods';
 
 function HomeContent() {
   return (
@@ -19,6 +21,8 @@ function HomeContent() {
       <FormContent/>
       <CardContent />
       <DesContent/>
+      <ServiceDescription/>
+      <PaymentMethods/>
       <FinalContent />
     </div>
   );

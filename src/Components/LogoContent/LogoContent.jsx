@@ -2299,7 +2299,7 @@ function LogoContent() {
                 textAlign: 'left',
                 marginTop: '10px',
                 transition: 'transform 0.3s',
-                borderColor: '#00def8',
+                borderColor: 'gray',
                 borderWidth: '3px',
                 borderStyle: 'solid',
               }}
